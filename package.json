@@ -2,7 +2,7 @@
   "name": "econsult",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/covid19india/eConsult",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
