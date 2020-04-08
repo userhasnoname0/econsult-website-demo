@@ -78,7 +78,7 @@ function Home(props) {
                 <div className="home-card">
                   <img className="fadeInUp" src="/econsult_background.png" alt="eConsult"/>
                   <div className="home-card-container">
-                    <h1>Start with consultation</h1>
+                    <h1>consultation</h1>
                     <a
                       className="button telegram"
                       href="#"
