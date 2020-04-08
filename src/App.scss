@@ -394,7 +394,6 @@ h6 {
   border: 0;
   font-family: 'archia';
   text-transform: uppercase;
-  background: $blue-light;
   color: $blue-mid;
   cursor: pointer;
   font-weight: 900;
@@ -436,6 +435,14 @@ h6 {
 
   & > * {
     align-self: center;
+  }
+}
+
+.econsult-button {
+  color: #08c !important;
+  justify-content: center;
+  &:hover {
+    background: $gray-hover !important;
   }
 }
 
@@ -2471,8 +2478,8 @@ select {
     }
 
     img {
-      width: 2rem;
-      height: 2rem;
+      width: 10rem;
+      height: 10rem;
       margin-left: 1rem;
       margin-right: -1rem;
       cursor: pointer;

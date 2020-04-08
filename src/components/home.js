@@ -78,9 +78,9 @@ function Home(props) {
                 <div className="home-card">
                   <img className="fadeInUp" src="/econsult_background.png" alt="eConsult"/>
                   <div className="home-card-container">
-                    <h1>consultation</h1>
+                    <h2>consultation</h2>
                     <a
-                      className="button telegram"
+                      className="button econsult-button"
                       href="#"
                       target="_blank"
                       rel="noopener noreferrer"
@@ -105,9 +105,9 @@ function Home(props) {
                 <div className="home-card">
                     <img className="fadeInUp" src="/econsult_superdocs.png" alt="econsult_superdocs"/>
                     <div className="home-card-container">
-                    <h1>Doctor Registration</h1>
+                    <h2>Doctor Registration</h2>
                     <a
-                      className="button telegram"
+                      className="button econsult-button"
                       href="#"
                       target="_blank"
                       rel="noopener noreferrer"
